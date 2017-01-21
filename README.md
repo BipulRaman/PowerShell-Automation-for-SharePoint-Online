@@ -4,7 +4,7 @@ PowerShell based Automations for bulk operations in SharePoint Online using Micr
 ### Prerequisites ###
 In order to generate the Cmdlet help you need to have the Windows Management Framework v4.0 installed, which you can download from http://www.microsoft.com/en-us/download/details.aspx?id=40855
 
-# Setup Environment #
+# Setting up Environment #
 
 ## Using Setup files ##
 You can download setup files from https://github.com/officedev/pnp-powershell/releases. These files will up be updated on a monthly basis.
