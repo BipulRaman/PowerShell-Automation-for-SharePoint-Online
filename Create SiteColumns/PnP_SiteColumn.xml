@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{edfc44af-0560-48d5-8a2a-b68664bf240a}"
+       Name="Test_x0020_Text"
+       DisplayName="Test Text"
+       Type="Text"
+       Required="FALSE"
+       Group="Test">
+  </Field> 
+  <Field
+       ID="{2404d1b3-62a6-486e-9724-87667267e389}"
+       Name="Test_x0020_Contact"
+       DisplayName="Test Contact"
+       Type="Text"
+       Required="FALSE"
+       Group="Test">
+  </Field>
+</Elements>
+

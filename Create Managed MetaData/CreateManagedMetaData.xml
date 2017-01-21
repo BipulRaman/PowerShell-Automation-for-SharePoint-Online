@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Groups>
+    <Group>
+        <Name>SkillBoard</Name>
+        <TermSets>
+            <Name>Designations</Name>
+            <Terms>
+                <Term>Associate Software Engineer</Term>
+                <Term>Software Engineer</Term>
+                <Term>Senior Software Engineer</Term>
+                <Term>Module Lead</Term>
+                <Term>Team Lead</Term>
+                <Term>Project Lead</Term>
+                <Term>Associate Architect</Term>
+                <Term>Architect</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Location</Name>
+            <Terms>
+                <Term>Bangalore</Term>
+                <Term>Mumbai</Term>
+                <Term>Pune</Term>
+                <Term>Chennai</Term>
+                <Term>Hyderabad</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Level</Name>
+            <Terms>
+                <Term>1</Term>
+                <Term>2</Term>
+                <Term>3</Term>
+                <Term>4</Term>
+                <Term>5</Term>
+                <Term>6</Term>
+                <Term>7</Term>
+                <Term>8</Term>
+                <Term>9</Term>
+                <Term>10</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Band</Name>
+            <Terms>
+                <Term>1</Term>
+                <Term>2</Term>
+                <Term>3</Term>
+                <Term>4</Term>
+                <Term>5</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Project</Name>
+            <Terms>
+                <Term>101-ABCD SharePoint Dev</Term>
+                <Term>102-EFGH J2EE Intranet</Term>
+                <Term>103-IJKL BigData Analytics</Term>
+                <Term>104-MNOP PeopleSoft Maintenance</Term>
+                <Term>105-QRST Tridion Development</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Technical Skills</Name>
+            <Terms>
+                <Term>SharePoint</Term>
+                <Term>ASP DotNet</Term>
+                <Term>DotNet MVC</Term>
+                <Term>Tridion</Term>
+                <Term>PeopleSoft</Term>
+                <Term>Oracle PLSQL</Term>
+                <Term>Office 365</Term>
+                <Term>Azure</Term>
+            </Terms>
+        </TermSets>  
+        <TermSets>
+            <Name>Domain Skills</Name>
+            <Terms>
+                <Term>Banking</Term>
+                <Term>Finance</Term>
+                <Term>Insurance</Term>
+                <Term>Medical</Term>
+                <Term>Airlines</Term>
+            </Terms>
+        </TermSets>
+        <TermSets>
+            <Name>Process Skills</Name>
+            <Terms>
+                <Term>Delivery Management</Term>
+                <Term>Group Management</Term>
+                <Term>Project Management</Term>
+            </Terms>
+        </TermSets>        
+    </Group>
+</Groups>
