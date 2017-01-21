@@ -29,9 +29,7 @@ Open your control panel, and open the Credential Manager.
 1. Select **Windows Credentials**
 2. Add a new **Generic** credential
 
-There are two approaches you can use:
-
-### URL based approach ###
+### Steps: ###
 
 1. Enter the URL of your site you want to setup a credential for. You can use just your full tenant address (e.g. "https://yourtenant.sharepoint.com", or you can be more specific by entering a more complete URL, alike "https://yourtenant.sharepoint.com/sites/yoursite" or only create a credential for that site.
 2. Enter the username and password to use for that url
